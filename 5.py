@@ -24,5 +24,6 @@ def greet(name):
     """This function greets the person passed as a parameter."""
     return f"Hello, {name}!"
 
-print(greet("Mehak"))
-print("This program is written and excecuted by MEHAK BHUTANI with ERP 0231BCA063")
+print(greet("AMRITYA"))
+print("This program is written and excecuted by AMRITYA GOEL with ERP 0231BCA175 ")
+
