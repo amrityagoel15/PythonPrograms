@@ -24,4 +24,5 @@ print("Perfects:", perfects)
 print("Armstrongs:", armstrongs)
 
 
-print("This code is written and excecuted by MEHAK BHUTANI with ERP 0231BCA063")
+print("This code is written and excecuted by AMRITYA GOEL with ERP 0231BCA175")
+
